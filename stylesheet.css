@@ -46,15 +46,11 @@ body{
     width:100%;
     justify-content: space-between;
     height: 100vh;
-    background-color:burlywood;
     
+    background: chocolate no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
-    align-items:center ;
+    align-items:center;
     padding: 70px 10% 0;
-
-
-
-
 }
