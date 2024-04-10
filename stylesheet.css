@@ -46,8 +46,8 @@ body{
     width:100%;
     justify-content: space-between;
     height: 100vh;
-    
-    background: chocolate no-repeat;
+   
+    background: url(image1.png) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
