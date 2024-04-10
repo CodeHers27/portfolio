@@ -5,7 +5,7 @@ box-sizing: border-box;
 font-family:"poppins", sans-serif ;
 }
 body{
-    color: #ededed;
+    color: #e715b6;
 }
 .header{
     position: fixed;
@@ -22,7 +22,7 @@ body{
 .logo{
     position: relative;
     font-size: 25px;
-    color: #fff;
+    color: #e6ed18;
     text-decoration:none;
     font-weight: 600;
 
@@ -30,7 +30,7 @@ body{
 .navbar a{
     display: inline-block;
     font-size: 25px;
-    color: #fff;
+    color: #10f03de9;
     text-decoration: none;
     font-weight: 500;
     margin-left: 35px;
